@@ -1,0 +1,36 @@
+ASS001,Python Basics Assignment,Assignment,100.0,30.0,MOD001
+ASS002,Python Data Structures Test,Test,50.0,30.0,MOD001
+ASS003,Python Final Project,Project,100.0,40.0,MOD001
+ASS004,Java Fundamentals Quiz,Quiz,20.0,15.0,MOD002
+ASS005,OOP Design Project,Project,100.0,50.0,MOD002
+ASS006,Java Final Exam,Exam,100.0,35.0,MOD002
+ASS007,SQL Basics Assignment,Assignment,100.0,25.0,MOD003
+ASS008,Database Design Test,Test,50.0,35.0,MOD003
+ASS009,Database Final Project,Project,100.0,40.0,MOD003
+ASS010,IS Analysis Assignment,Assignment,100.0,30.0,MOD004
+ASS011,Enterprise Systems Test,Test,50.0,30.0,MOD004
+ASS012,IS Implementation Project,Project,100.0,40.0,MOD004
+ASS013,CRM Strategy Assignment,Assignment,100.0,35.0,MOD005
+ASS014,Customer Service Test,Test,50.0,30.0,MOD005
+ASS015,CRM Implementation Project,Project,100.0,35.0,MOD005
+ASS016,Data Analysis Quiz,Quiz,20.0,20.0,MOD006
+ASS017,Business Intelligence Test,Test,50.0,30.0,MOD006
+ASS018,Analytics Case Study,Project,100.0,50.0,MOD006
+ASS019,E-commerce Platform Assignment,Assignment,100.0,30.0,MOD007
+ASS020,Digital Marketing Test,Test,50.0,30.0,MOD007
+ASS021,E-commerce Website Project,Project,100.0,40.0,MOD007
+ASS022,Economics Principles Assignment,Assignment,100.0,30.0,MOD008
+ASS023,Market Analysis Test,Test,50.0,30.0,MOD008
+ASS024,Business Economics Case Study,Project,100.0,40.0,MOD008
+ASS025,Robotics Fundamentals Assignment,Assignment,100.0,30.0,MOD009
+ASS026,Automation Systems Test,Test,50.0,30.0,MOD009
+ASS027,Robotics Design Project,Project,100.0,40.0,MOD009
+ASS028,Engineering Principles Assignment,Assignment,100.0,30.0,MOD010
+ASS029,Materials Science Test,Test,50.0,30.0,MOD010
+ASS030,Engineering Science Project,Project,100.0,40.0,MOD010
+ASS031,Calculus Assignment,Assignment,100.0,30.0,MOD011
+ASS032,Linear Algebra Test,Test,50.0,30.0,MOD011
+ASS033,Mathematics Final Exam,Exam,100.0,40.0,MOD011
+ASS034,Renewable Energy Assignment,Assignment,100.0,30.0,MOD012
+ASS035,Power Systems Test,Test,50.0,30.0,MOD012
+ASS036,Energy Technologies Project,Project,100.0,40.0,MOD012

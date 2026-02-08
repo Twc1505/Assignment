@@ -1,0 +1,24 @@
+CLS001,Python Programming Class A,MOD001,STU001;STU002;STU003,Monday,09:00,11:00,Room 301,30
+CLS002,Python Programming Class B,MOD001,STU004;STU005,Wednesday,14:00,16:00,Room 302,30
+CLS003,OOP with Java Class A,MOD002,STU001;STU003;STU005,Tuesday,09:00,11:00,Room 303,30
+CLS004,OOP with Java Class B,MOD002,STU002;STU004,Thursday,14:00,16:00,Room 304,30
+CLS005,Database Management Class A,MOD003,STU001;STU002;STU003,Monday,14:00,16:00,Lab 101,25
+CLS006,Database Management Class B,MOD003,STU004;STU005,Friday,09:00,11:00,Lab 102,25
+CLS007,Information System Class A,MOD004,STU001;STU004,Wednesday,09:00,11:00,Room 305,30
+CLS008,Information System Class B,MOD004,STU002;STU005,Friday,14:00,16:00,Room 306,30
+CLS009,CRM Class A,MOD005,STU003;STU006;STU007,Monday,09:00,11:00,Room 401,35
+CLS010,CRM Class B,MOD005,STU008;STU009,Thursday,14:00,16:00,Room 402,35
+CLS011,Business Analytics Class A,MOD006,STU006;STU007,Tuesday,09:00,11:00,Lab 201,30
+CLS012,Business Analytics Class B,MOD006,STU008;STU009,Friday,09:00,11:00,Lab 202,30
+CLS013,E-commerce Class A,MOD007,STU003;STU007,Monday,14:00,16:00,Room 403,30
+CLS014,E-commerce Class B,MOD007,STU006;STU009,Wednesday,14:00,16:00,Room 404,30
+CLS015,Business Economics Class A,MOD008,STU006;STU008,Tuesday,14:00,16:00,Room 405,35
+CLS016,Business Economics Class B,MOD008,STU007;STU009,Thursday,09:00,11:00,Room 406,35
+CLS017,Robotics & Automation Class A,MOD009,STU010,Monday,09:00,12:00,Lab 301,20
+CLS018,Robotics & Automation Class B,MOD009,STU010,Wednesday,14:00,17:00,Lab 302,20
+CLS019,Engineering Science Class A,MOD010,STU010,Tuesday,09:00,11:00,Room 501,30
+CLS020,Engineering Science Class B,MOD010,STU010,Thursday,14:00,16:00,Room 502,30
+CLS021,Engineering Mathematics Class A,MOD011,STU010,Monday,14:00,16:00,Room 503,30
+CLS022,Engineering Mathematics Class B,MOD011,STU010,Friday,09:00,11:00,Room 504,30
+CLS023,Energy Technologies Class A,MOD012,STU010,Wednesday,09:00,11:00,Lab 303,25
+CLS024,Energy Technologies Class B,MOD012,STU010,Friday,14:00,16:00,Lab 304,25

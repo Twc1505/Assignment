@@ -1,0 +1,18 @@
+RES001,STU001,ASS001,85.0,A,Excellent Python skills. Clean code with proper documentation.
+RES002,STU001,ASS002,42.0,B+,Good understanding of data structures. Practice more on algorithms.
+RES003,STU001,ASS004,18.0,A,Perfect understanding of Java fundamentals.
+RES004,STU001,ASS007,90.0,A+,Outstanding SQL queries with excellent database design.
+RES005,STU001,ASS008,45.0,A,Excellent normalization and ER diagrams.
+RES006,STU002,ASS001,78.0,B+,Good Python programming. Improve on error handling.
+RES007,STU002,ASS007,88.0,A,Very good database implementation.
+RES008,STU002,ASS008,40.0,B+,Solid database knowledge. Review indexing concepts.
+RES009,STU003,ASS007,75.0,B+,Good SQL skills. Need more practice with complex queries.
+RES010,STU003,ASS013,82.0,A,Excellent CRM strategy with clear implementation plan.
+RES011,STU003,ASS016,16.0,B+,Good data analysis. Improve visualization techniques.
+RES012,STU006,ASS013,88.0,A,Outstanding CRM strategy. Well-researched and practical.
+RES013,STU006,ASS016,17.0,A,Excellent analytics skills with insightful findings.
+RES014,STU006,ASS019,80.0,A,Good e-commerce platform design with modern features.
+RES015,STU010,ASS025,92.0,A+,Exceptional robotics design with innovative automation solutions.
+RES016,STU010,ASS028,87.0,A,Excellent engineering principles application.
+RES017,STU010,ASS031,85.0,A,Very good mathematical skills with clear problem-solving.
+RES018,STU010,ASS034,90.0,A+,Outstanding energy systems analysis with sustainable solutions.

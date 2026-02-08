@@ -1,0 +1,27 @@
+ADM001,admin,admin123,System Administrator,admin@apu.edu.my,ADMIN
+ADM002,admin2,pass123,Sarah Admin,sarah.admin@apu.edu.my,ADMIN
+AL001,leader1,pass123,Dr. John Smith,john.smith@apu.edu.my,ACADEMIC_LEADER,,FLD001
+AL002,leader2,pass123,Dr. Sarah Johnson,sarah.johnson@apu.edu.my,ACADEMIC_LEADER,,FLD002
+AL003,leader3,pass123,Prof. David Lee,david.lee@apu.edu.my,ACADEMIC_LEADER,,FLD003
+LEC001,lecturer1,pass123,Prof. Jane Doe,jane.doe@apu.edu.my,LECTURER,AL001,FLD001
+LEC002,lecturer2,pass123,Dr. Michael Chen,michael.chen@apu.edu.my,LECTURER,AL001,FLD001
+LEC003,lecturer3,pass123,Dr. Emily Wong,emily.wong@apu.edu.my,LECTURER,AL001,FLD001
+LEC004,lecturer4,pass123,Dr. Ahmad Razak,ahmad.razak@apu.edu.my,LECTURER,AL001,FLD001
+LEC005,lecturer5,pass123,Prof. Lisa Kumar,lisa.kumar@apu.edu.my,LECTURER,AL002,FLD002
+LEC006,lecturer6,pass123,Dr. Robert Tan,robert.tan@apu.edu.my,LECTURER,AL002,FLD002
+LEC007,lecturer7,pass123,Prof. Maria Garcia,maria.garcia@apu.edu.my,LECTURER,AL002,FLD002
+LEC008,lecturer8,pass123,Dr. James Lee,james.lee@apu.edu.my,LECTURER,AL002,FLD002
+LEC009,lecturer9,pass123,Prof. David Kumar,david.kumar@apu.edu.my,LECTURER,AL003,FLD003
+LEC010,lecturer10,pass123,Dr. Siti Nurhaliza,siti.nurhaliza@apu.edu.my,LECTURER,AL003,FLD003
+LEC011,lecturer11,pass123,Dr. Wei Zhang,wei.zhang@apu.edu.my,LECTURER,AL003,FLD003
+LEC012,lecturer12,pass123,Prof. Arjun Patel,arjun.patel@apu.edu.my,LECTURER,AL003,FLD003
+STU001,student1,pass123,Ali Ahmad,ali.ahmad@student.apu.edu.my,STUDENT
+STU002,student2,pass123,Nurul Aisyah,nurul.aisyah@student.apu.edu.my,STUDENT
+STU003,student3,pass123,Kumar Raj,kumar.raj@student.apu.edu.my,STUDENT
+STU004,student4,pass123,Lee Wei Ming,lee.weiming@student.apu.edu.my,STUDENT
+STU005,student5,pass123,Sarah Tan,sarah.tan@student.apu.edu.my,STUDENT
+STU006,student6,pass123,Muhammad Hafiz,hafiz@student.apu.edu.my,STUDENT
+STU007,student7,pass123,Priya Sharma,priya@student.apu.edu.my,STUDENT
+STU008,student8,pass123,Chen Wei,chen@student.apu.edu.my,STUDENT
+STU009,student9,pass123,Fatima Hassan,fatima@student.apu.edu.my,STUDENT
+STU010,student10,pass123,Raj Kumar,raj@student.apu.edu.my,STUDENT

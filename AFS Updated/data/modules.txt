@@ -1,0 +1,12 @@
+MOD001,Python Programming,CT091-3-2,Learn Python programming with focus on data structures, algorithms, and practical applications
+MOD002,Object-Oriented with Java,CT092-3-2,Learn Java programming with OOP concepts including inheritance, polymorphism, and encapsulation
+MOD003,Database Management,CT093-3-2,Learn SQL, database design, normalization
+MOD004,Information System,CT094-3-2,Learn about enterprise information systems, business processes, and IT management
+MOD005,Customer Relationship Management,BU091-3-2,Learn CRM strategies, customer service excellence, and relationship building techniques
+MOD006,Business Analytics,BU092-3-2,Learn data analysis, business intelligence, and decision-making with data-driven insights
+MOD007,E-commerce,BU093-3-2,Learn online business models, digital marketing, and e-commerce platform management
+MOD008,Business Economics,BU094-3-2,Learn economic principles, market analysis, and their application to business decisions
+MOD009,Robotics & Automation,EN091-3-2,Learn robotics principles, automation systems, and control mechanisms
+MOD010,Engineering Science,EN092-3-2,Learn fundamental engineering principles including mechanics, materials, and thermodynamics
+MOD011,Engineering Mathematics,EN093-3-2,Learn advanced mathematics for engineering including calculus, linear algebra, and differential equations
+MOD012,Energy Technologies,EN094-3-2,Learn renewable energy systems, power generation, and sustainable energy solutions
