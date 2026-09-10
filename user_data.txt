@@ -1,0 +1,4 @@
+LC068691,Shawn,CSA@068691,KK@gmail.com,Lecturer
+TP076620,Teophilus,Teo-1015,Teo2@gmail.com,Student
+LC075440,Then,##123Twc##,TWC@gmail.com,Lecturer
+TP557869,test1,TY$#oIp12,test1@gmail.com,Student
