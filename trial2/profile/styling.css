@@ -1,0 +1,209 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Color Palette */
+:root {
+    --primary-light: #AB3CFC;  /* Bright Purple */
+    --primary-medium: #7E6DF3; /* Soft Blue */
+    --primary-dark: #533B7C;   /* Dark Purple */
+    --accent-light: #7C589A;   /* Light Violet */
+    --accent-medium: #9F8CCA;  /* Lavender */
+    --neutral-dark: #3E394C;   /* Dark Gray */
+}
+
+/* Body and General */
+body {
+    background-color: var(--accent-medium);
+    color: var(--neutral-dark);
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+    background-color: var(--primary-dark);
+    color: #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-container #logo {
+    width: 50px;
+    height: 50px;
+}
+
+.logo-container .site-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--primary-light);
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    color: var(--accent-medium);
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 8px 15px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    border-radius: 5px;
+}
+
+.nav-links a:hover {
+    background-color: var(--primary-light);
+    color: #fff;
+}
+
+/* Main Container */
+.main-container {
+    background-color: var(--primary-medium);
+    margin: 30px auto;
+    padding: 20px;
+    max-width: 1200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--neutral-dark);
+    color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid var(--primary-light);
+}
+
+th {
+    background-color: var(--primary-dark);
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: var(--accent-light);
+}
+
+tr:hover {
+    background-color: var(--primary-light);
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Buttons */
+button, .action-btn {
+    padding: 8px 15px;
+    border: none;
+    background-color: var(--primary-dark);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, .action-btn:hover {
+    background-color: var(--accent-light);
+    color: #fff;
+}
+
+/* Footer Styling */
+footer {
+    background-color: var(--neutral-dark);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-links a {
+    color: var(--accent-medium);
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 0.9rem;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: var(--primary-light);
+    text-decoration: underline;
+}
+
+/* Pagination */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination a {
+    padding: 8px 16px;
+    margin: 0 5px;
+    border: 1px solid var(--primary-light);
+    color: var(--primary-light);
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.pagination a.active, .pagination a:hover {
+    background-color: var(--primary-light);
+    color: #fff;
+    border-color: var(--primary-light);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .main-container {
+        padding: 10px;
+    }
+}
